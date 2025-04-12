@@ -10,3 +10,4 @@ Wish me luck on this journey!
 - Basic structuring of a webpage using HTML  
 - Git basics  
 - Publishing and updating a project on GitHub  
+
